@@ -18,8 +18,8 @@ To write a Python program to check if a number is a Perfect number using the con
 
 ### PROGRAM
 ```
-Reg.No: 212222060025
-Name: Bharath S
+#Reg.No: 212222060025
+#Name: Bharath S
 
 n=int(input())
 sum1=0
