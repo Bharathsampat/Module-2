@@ -18,8 +18,8 @@ To write a Python program to check the relation between two numbers — whether 
 ### PROGRAM
 
 ```
-Reg.no - 212222060025
-Name: Bharath S
+#Reg.no - 212222060025
+#Name: Bharath S
 
 str = int(input())
 x=oct(str)
