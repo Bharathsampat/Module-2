@@ -14,7 +14,7 @@ To write a Python program to print a triangular star pattern using loops.
    - Print the calculated number of spaces using `print(" ", end="")`.  
    - Increment `i` by 1 after each row.  
    - Print stars using a nested loop: the number of stars in each row is `rows + 1`, printed using `print("*", end="  ")`.  
-   - Print a newline after each row using `print("")` to move to the next line.  
+   - Print a newline after each row using `print("")` to move to the next line.   
 5. Terminate the program.
 
 ### PROGRAM
