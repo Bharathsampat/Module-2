@@ -20,7 +20,6 @@ To write a Python program to check if a number is a Perfect number using the con
 ```
 Reg.No:212222060025
 Name:Bharath S
-#Add your Code Here
 
 n=int(input())
 sum1=0
