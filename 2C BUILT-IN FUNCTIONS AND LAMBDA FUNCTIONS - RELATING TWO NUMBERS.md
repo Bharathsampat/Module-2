@@ -21,13 +21,14 @@ To write a Python program to check the relation between two numbers — whether 
 #Reg.no - 212222060025
 #Name: Bharath S
 
-str = int(input())
-x=oct(str)
-print(x)
+a=int(input())
+b=int(input())
+f=lambda a,b: (f"{a} is smaller than {b}")  if a<b else(f"{a} is greater than {b}" if(a>b) else(f"{a} is equal to{b}"))
+print(f(a,b))
 
 ```
 ### OUTPUT
-<img width="509" height="299" alt="image" src="https://github.com/user-attachments/assets/253a5c44-56d7-4c33-bd3b-0d7964a55950" />
+![image](https://github.com/user-attachments/assets/ee7de341-461d-40b7-b1fe-6fca4434af74)
 
 ### RESULT
 Thus the conversion of decimal number to octal number is executed successfully.
